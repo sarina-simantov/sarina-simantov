@@ -22,7 +22,7 @@ Designing and training unsupervised deep learning models to deconvolute mixed ge
 
 ### Projects
 
-**[Cancer Signal Decomposition](Link-To-Repo)**
+**[Cancer Signal Decomposition](https://github.com/shaharod/cancer-signal-decomposition)**
 * **Deep Learning Pipeline:** Built a custom PyTorch framework to deconvolute mixed genomic signals using dual-branch Autoencoders.
 * **System Architecture:** Used Factory and Strategy design patterns to create a scalable, modular training environment for rapid model testing.
 * **Data & Analytics:** Managed end-to-end tensor data flow and built custom Matplotlib visualization suites for latent space and reconstruction analysis.
