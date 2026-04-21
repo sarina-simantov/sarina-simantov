@@ -14,7 +14,7 @@
 
 ### Current Role
 
-**Undergraduate Researcher** | *The Friedman Lab, Hebrew University*
+**Undergraduate ML Researcher** | *The Friedman Lab, Hebrew University*
 
 Designing and training unsupervised deep learning models to deconvolute mixed genomic signals, utilizing hardware acceleration (MPS/CUDA) and object-oriented PyTorch architectures. 
 
