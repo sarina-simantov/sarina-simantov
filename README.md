@@ -1,16 +1,56 @@
-## Hi there 👋
+# Sarina Simantov
+**Computer Science and Computational Biology at the Hebrew University of Jerusalem.**
 
-<!--
-**sarina-simantov/sarina-simantov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* Specializing in PyTorch, Python, and C/C++
+* Building ML pipelines for cancer signal decomposition
+---
 
-Here are some ideas to get you started:
+### Skills & Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Languages:**
+* Python
+* Java
+* C/C++
+
+**Machine Learning & Data Science:**
+* PyTorch
+* Pandas
+* Scikit-Learn
+* TensorFlow
+
+
+**Tools & Environment:**
+* Git
+* Linux
+---
+
+### Current Role
+
+**Undergraduate Researcher** | *The Friedman Lab, Hebrew University*
+
+Designing and training unsupervised deep learning models to deconvolute mixed genomic signals, utilizing hardware acceleration (MPS/CUDA) and object-oriented PyTorch architectures. 
+
+---
+
+### Projects
+
+**[Cancer Signal Decomposition](Link-To-Repo):**
+
+Deep Learning Pipeline: Built a custom PyTorch framework to deconvolute mixed genomic signals using dual-branch Autoencoders.
+
+System Architecture: Used Factory and Strategy design patterns to create a scalable, modular training environment for rapid model testing.
+
+Data & Analytics: Managed end-to-end tensor data flow and built custom Matplotlib visualization suites for latent space analysis.
+
+
+---
+
+### Education & Background
+
+* **B.Sc. in Computer Science and Computational Biology** | *The Hebrew University of Jerusalem* | 2023-Present
+* **Psychometric Exam** Math - 704 | General - 698
+* **Biotechnology Studies** Horev High School | Score 119.8
+
+---
+
+📫 **Let's Connect:** [Link to your LinkedIn] | [Your Email]
