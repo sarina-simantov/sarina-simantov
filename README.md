@@ -26,7 +26,7 @@ Designing and training unsupervised deep learning models to deconvolute mixed ge
 * **Deep Learning Pipeline:** Built a custom PyTorch framework to deconvolute mixed genomic signals using dual-branch Autoencoders.
 * **System Architecture:** Used Factory and Strategy design patterns to create a scalable, modular training environment for rapid model testing.
 * **Data & Analytics:** Managed end-to-end tensor data flow and built custom Matplotlib visualization suites for latent space and reconstruction analysis.
-* 
+
 
 **[Python Paint Application](https://github.com/sarina-simantov/Painter-Python-Project.git)**
 * **GUI Architecture:** Engineered a fully object-oriented Tkinter drawing application utilizing custom shape classes and dynamic layering.
