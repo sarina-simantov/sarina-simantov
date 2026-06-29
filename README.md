@@ -27,8 +27,11 @@ Designing and training unsupervised deep learning models to deconvolute mixed ge
 * **System Architecture:** Used Factory and Strategy design patterns to create a scalable, modular training environment for rapid model testing.
 * **Data & Analytics:** Managed end-to-end tensor data flow and built custom Matplotlib visualization suites for latent space and reconstruction analysis.
 * 
-**[Python Paint Application](https://github.com/sarina-simantov/Painter-Python-Project.git):**
-An object-oriented drawing application built with Tkinter, featuring custom shape classes, background autosaving, and JSON serialization for state-retained loading.
+
+**[Python Paint Application](https://github.com/sarina-simantov/Painter-Python-Project.git)**
+* **GUI Architecture:** Engineered a fully object-oriented Tkinter drawing application utilizing custom shape classes and dynamic layering.
+* **State Persistence:** Implemented JSON serialization for state-retained loading, allowing users to save and resume complex workspaces.
+* 
 ---
 
 ### Education & Background
