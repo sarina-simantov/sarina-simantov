@@ -35,9 +35,9 @@ Designing and training unsupervised deep learning models to deconvolute mixed ge
 
 ### Education & Background
 
-* **B.Sc. in Computer Science and Computational Biology** | *The Hebrew University of Jerusalem* | 2023-Present
+* **B.Sc. in Computer Science and Computational Biology** | *The Hebrew University of Jerusalem* | 2023-2026 | GPA 86
 * **Psychometric Exam** Math - 704 | General - 698
-* **Biotechnology Studies** Horev High School | Score 119.8
+* **Biotechnology Studies** Horev High School | 2017-2021 | Score 119.8
 
 ---
 
