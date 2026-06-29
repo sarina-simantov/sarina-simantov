@@ -31,7 +31,6 @@ Designing and training unsupervised deep learning models to deconvolute mixed ge
 **[Python Paint Application](https://github.com/sarina-simantov/Painter-Python-Project.git)**
 * **GUI Architecture:** Engineered a fully object-oriented Tkinter drawing application utilizing custom shape classes and dynamic layering.
 * **State Persistence:** Implemented JSON serialization for state-retained loading, allowing users to save and resume complex workspaces.
-* 
 ---
 
 ### Education & Background
